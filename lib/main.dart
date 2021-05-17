@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'Game.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(Game());
 }
 
 class MyApp extends StatelessWidget {
